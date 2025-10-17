@@ -38,6 +38,10 @@ Route::get('/data/amats/{id}/delete','App\Http\Controllers\AmatsController@Amats
 Route::get('/data/amats/{id}/edit','App\Http\Controllers\AmatsController@AmatsEdit');
 Route ::post('/data/amats/{id}','App\Http\Controllers\AmatsController@AmatseditSubmit');
 //Kontakti
+
+//Login
+//Route::post('/loginp', 'App\Http\Controllers\AmatsController')
+
 Route::get('/data/newsubmit', function(){
     return dd(Request::all());
 });
