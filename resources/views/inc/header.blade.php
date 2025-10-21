@@ -1,5 +1,5 @@
 <div class="container">
-     <header > 
+     <header class="d-flex justify-content-center py-3"> 
         <ul class="nav nav-pills">
              <li class="nav-item">
                 <a href="#" class="nav-link active" aria-current="page">Mājas</a>
@@ -7,6 +7,8 @@
              <li class="nav-item"><a href="/data" class="nav-link">Dati</a>
             </li> <li class="nav-item"><a href="/contacts" class="nav-link">Contacts</a>
         </li> <li class="nav-item"><a href="#" class="nav-link">nekas</a></li>
-         <li style="text-align:right;" class="nav-item"><a href="/Sign_up" class="nav-link">Reģistrēties</a></li>
-          <li style="text-align:right;" class="nav-item"><a href="Login" class="nav-link">Pieslēgties</a></li>
+
+        <div class="d-flex justify-content-text-end py-3">
+         <li class="nav-item"><a href="/Sign_up" class="nav-link">Reģistrēties</a></li>
+          <li  class="nav-item"><a href="Login" class="nav-link">Pieslēgties</a></li>
      </ul> </header> </div>
