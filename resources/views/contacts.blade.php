@@ -13,9 +13,9 @@
 </ul>
 </div>
 @endif
-<form action="/data/all/{{$data->id}}" method="post">
+
+<form action="/contacti/newsubmit" method="post">
     @csrf
-<h1>Edit</h1>
 <div class="container" style="max-width: 60%;">
     <div class="mb-3">
         <label for="name" class="form-label"></label>
