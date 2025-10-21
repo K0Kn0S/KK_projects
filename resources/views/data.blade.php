@@ -9,7 +9,7 @@
 
 <a href="/data/allData" class="btn btn-success">Apskatīt vissus datus</a>
 <a href="/data/allDarbinieks" class="btn btn-success">Darbinieki</a>
-<a href="/data/allAmats" class="btn btn-success">Amatidasdd</a>
+<a href="/data/allAmats" class="btn btn-success">Amattiii</a>
 
     
 @endsection
