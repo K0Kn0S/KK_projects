@@ -11,9 +11,10 @@
 }
 
 body{
-    background: rgb(199, 208, 214);
+    background: rgb(104, 151, 182);
 }
 
 header{
-   
+   border-radius: 45cm;
+   border-color:black;
 }
